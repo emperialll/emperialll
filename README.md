@@ -1,5 +1,13 @@
 # About Me:
-🔭 I am a dedicated software engineer striving to deliver scalable and high-performance solutions. With a strong background in the e-commerce industry, including valuable experience at SAP store digital commerce operations, I have successfully transitioned into the software and web development domain.<br>
+🔭 I am a committed full-stack developer focused on delivering scalable, high-performance solutions. With a robust e-commerce background, including significant experience at SAP Store Digital Commerce Operations, I've successfully transitioned into the software and web development domain.
+
+Key Highlights:
+
+- Over 8 years of experience in the e-commerce industry
+- Specialized in web application development, particularly with a focus on NEXT.JS and React technologies using TypeScript
+- Strong proficiency in Python and Java object-oriented programming, along with relevant frameworks like Flask and Spring Boot
+- Proficient in crafting RESTful APIs
+- Experienced in Agile methodology<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ram-kumar-shrestha&icon=8&color=0)](https://visitcount.itsvg.in)
